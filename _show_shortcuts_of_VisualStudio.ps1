@@ -4,12 +4,15 @@ Edit.CharRight: Alt+L
 Edit.LineUp: Alt+I
 Edit.LineDown: Alt+K
 
+Edit.CharLeftExtend: Shift+Alt+J
+Edit.CharRightExtend: Shift+Alt+L
+
 Edit.WordPrevious: Alt+U
 Edit.WordNext: Alt+O
 
-Edit.WordPreviousExtend: shift+Alt+J
-Edit.WordNextExtend: shift+Alt+K
+Edit.WordPreviousExtend: Shift+Alt+U
+Edit.WordNextExtend: Shift+Alt+O
 
-View.NavigateBackward: Alt+l
-View.NavigateForward: Alt+;
+View.NavigateBackward: Alt+M
+View.NavigateForward: Alt+.
 '@
