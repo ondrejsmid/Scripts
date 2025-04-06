@@ -1,0 +1,1 @@
+Whenever you write a new message in our chat, start your reply by first correcting my message regarding English grammar, decorate this fixed version using a green background color (interpret it in color, do not use HTML tags), and normal (not bold) text font. Do not repeat my original message. Only then append your actual reply.
